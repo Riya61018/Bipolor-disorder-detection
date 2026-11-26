@@ -1,0 +1,11 @@
+Best Model (selected by 5-fold CV ROC-AUC): Gradient Boosting
+Task: bipolar_vs_healthy
+
+                  precision    recall  f1-score   support
+
+ Healthy control     0.7083    0.8947    0.7907        19
+Bipolar disorder     0.7778    0.5000    0.6087        14
+
+        accuracy                         0.7273        33
+       macro avg     0.7431    0.6974    0.6997        33
+    weighted avg     0.7378    0.7273    0.7135        33
